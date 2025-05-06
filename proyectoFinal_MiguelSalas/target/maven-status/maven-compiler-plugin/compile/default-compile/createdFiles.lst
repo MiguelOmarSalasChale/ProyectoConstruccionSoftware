@@ -1,0 +1,13 @@
+modelo\PrioridadTarea.class
+excepciones\TituloInvalidoException.class
+modelo\ManejadorConsola.class
+modelo\ValidadorEntradas.class
+modelo\Filtro.class
+modelo\Orden.class
+main\Main.class
+modelo\Tarea.class
+modelo\EstadoTarea.class
+excepciones\FechaInvalidaException.class
+modelo\GestorTareas.class
+modelo\LectorEntradas.class
+modelo\GestorTareas$1.class
